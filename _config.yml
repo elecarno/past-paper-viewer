@@ -1,20 +1,18 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: Past Paper Viewer
+url:
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
-# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+description: A dedicated viewing environment for past exam papers. 
+author: elecarno
+  name: Benjamin McEwan
+  email: benrobmc.mc@gmail.com
 social:
   name: Hydra Template
   links:
@@ -23,7 +21,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: UTC
 
 collections:
   staff_members:
@@ -86,14 +84,14 @@ exclude:
 
 _select_data:
   social_icons:
-    - Facebook
-    - Instagram
-    - LinkedIn
-    - Pinterest
-    - Tumblr
-    - Twitter
-    - YouTube
-    - RSS
+    # - Facebook
+    # - Instagram
+    # - LinkedIn
+    # - Pinterest
+    # - Tumblr
+    # - Twitter
+    # - YouTube
+    # - RSS
 
 _comments:
   map: Update the map location and display settings.
