@@ -3,16 +3,16 @@
 
 title: Past Paper Viewer
 url:
-baseurl:
-google_analytics_key:
-google_maps_javascript_api_key:
+baseurl: ""
+# google_analytics_key:
+# google_maps_javascript_api_key:
 disqus_shortname:
 
 logo: /siteicon.png
-description: A dedicated viewing environment for past exam papers. 
-author: elecarno
-  name: Benjamin McEwan
-  email: benrobmc.mc@gmail.com
+description: "A dedicated viewing environment for past exam papers."
+author:
+  name: "Benjamin McEwan"
+  email: "benrobmc.mc@gmail.com"
 social:
   name: Hydra Template
   links:
