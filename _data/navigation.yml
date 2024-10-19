@@ -1,13 +1,13 @@
 - name: Documentation
-  link: /blog/
+  link: https://github.com/elecarno/ppv-course-packages/wiki
   new_window: false
   highlight: false
-- name: Updates
-  link: /about/
+- name: Changelog
+  link: /changelog/
   new_window: false
   highlight: false
 - name: Download Course Packages
-  link: /course_packages/
+  link: https://github.com/elecarno/ppv-course-packages/releases
   new_window: false
   highlight: true
 
