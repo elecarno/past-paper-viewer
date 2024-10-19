@@ -1,6 +1,6 @@
 - name: Documentation
   link: https://github.com/elecarno/ppv-course-packages/wiki
-  new_window: false
+  new_window: true
   highlight: false
 - name: Changelog
   link: /changelog/
@@ -8,6 +8,6 @@
   highlight: false
 - name: Download Course Packages
   link: https://github.com/elecarno/ppv-course-packages/releases
-  new_window: false
+  new_window: true
   highlight: true
 
