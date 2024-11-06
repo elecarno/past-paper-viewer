@@ -1,10 +1,16 @@
 - links:
   - name: Documentation
-    link: /pricing/
+    link: https://github.com/elecarno/ppv-course-packages/wiki
+    new_window: true
+    highlight: false
+  - name: Feedback
+    link: https://forms.gle/X3qiY2UqT49mQiaV6
+    new_window: true
+    highlight: false
   - name: Changelog
-    link: /blog/
-  - name: Course Packages
-    link: /about/
+    link: /changelog/
+    new_window: false
+    highlight: false
 - links:
   - name: Github
     link: https://github.com/elecarno
